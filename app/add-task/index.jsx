@@ -1,0 +1,17 @@
+import { View, Text, StyleSheet } from "react-native";
+
+export default function AddTask() {
+
+    
+    return(
+        <View>
+            <Text> Página para adicionar tarefa </Text>
+        </View>
+    )
+
+    const styles = StyleSheet.create(
+        {
+
+        }
+    )
+}
